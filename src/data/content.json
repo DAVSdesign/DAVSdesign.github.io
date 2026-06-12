@@ -1,0 +1,333 @@
+{
+  "company": {
+    "name": "DAVS Integrated Engineering Solutions",
+    "shortName": "DAVS",
+    "tagline": "Precision by Design, Excellence by Commitment",
+    "description": "Specialized Mechanical CAD and Tool Designing firm delivering high-accuracy engineering solutions for manufacturing. From concept to final documentation, we provide structured, integrated design approaches that meet the most demanding industry standards including HAL aerospace specifications.",
+    "founded": "2015",
+    "contact": {
+      "email": "info@davsengineering.com",
+      "phone": "+91 98765 43210",
+      "address": "123 Industrial Area, Phase 1, Bangalore, India",
+      "businessHours": "Mon - Sat: 9:00 AM - 6:00 PM",
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.5965!2d77.5946!3d12.9716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2sBangalore!5e0!3m2!1sen!2sin!4v1234567890",
+      "social": {
+        "linkedin": "https://linkedin.com/company/davs-engineering",
+        "twitter": "https://twitter.com/davs_eng"
+      }
+    },
+    "seo": {
+      "title": "DAVS Integrated Engineering Solutions | Precision Mechanical CAD & Tool Design",
+      "description": "Specialized Mechanical CAD and Tool Designing firm delivering high-accuracy engineering solutions for aerospace and manufacturing. HAL-certified tool design, jigs, fixtures, and more.",
+      "keywords": ["Mechanical CAD firm", "Tool Designing firm", "HAL tool design", "Jigs and Fixtures engineering", "Aerospace welding fixtures", "3D Modeling", "Technical Drafting", "Assembly Jig Design"]
+    }
+  },
+  "home": {
+    "hero": {
+      "heading": "Manufacturing-Ready Engineering Solutions",
+      "subheading": "Structured, integrated design approach from concept to final documentation. Specialized in aerospace-grade tooling and precision mechanical engineering.",
+      "primaryCTA": "Discuss Your Project",
+      "secondaryCTA": "View Our Capabilities"
+    },
+    "features": [
+      {
+        "title": "Precision by Design",
+        "description": "Tolerances built for aerospace standards. Every design undergoes rigorous quality checks before delivery.",
+        "icon": "Crosshair"
+      },
+      {
+        "title": "End-to-End Integration",
+        "description": "From 3D modeling to final manufacturing drawings, we deliver complete documentation packages.",
+        "icon": "Layers"
+      },
+      {
+        "title": "HAL Aerospace Certified",
+        "description": "Proven track record with Hindustan Aeronautics Limited, meeting the most demanding industry specifications.",
+        "icon": "Shield"
+      },
+      {
+        "title": "Manufacturing Ready",
+        "description": "Designs optimized for production — minimizing lead times, material waste, and tooling costs.",
+        "icon": "Factory"
+      }
+    ],
+    "stats": [
+      { "value": 500, "suffix": "+", "label": "Projects Delivered" },
+      { "value": 11, "suffix": "+", "label": "Years of Experience" },
+      { "value": 98, "suffix": "%", "label": "Client Retention Rate" },
+      { "value": 50, "suffix": "+", "label": "OEM Partnerships" }
+    ],
+    "featuredProject": {
+      "id": "p1",
+      "title": "Wing Structure Assembly Jig Design",
+      "category": "Aerospace Tooling",
+      "description": "High-precision assembly jig designed to meet HAL aerospace standards for fighter aircraft wing assembly. This project involved complex 3D modeling, FEA analysis, and comprehensive manufacturing documentation.",
+      "image": "/images/projects/wing-jig.jpg"
+    }
+  },
+  "products": [
+    {
+      "id": "prod1",
+      "title": "Welding Fixtures",
+      "category": "Assembly & Joining",
+      "description": "High-precision welding fixtures engineered for consistent weld quality and repeatability. Designed for MIG, TIG, and spot welding applications across automotive and aerospace sectors.",
+      "specifications": ["Positional accuracy: ±0.05mm", "Material: EN8/EN24 steel", "Surface treatment: Hard Chrome", "Clamp force: Up to 5000N"],
+      "image": "/images/products/welding-fixtures.jpg"
+    },
+    {
+      "id": "prod2",
+      "title": "Assembly Jigs",
+      "category": "Assembly & Joining",
+      "description": "Purpose-built assembly jigs that ensure component alignment and structural integrity during multi-part assembly operations. HAL aerospace-grade specifications available.",
+      "specifications": ["Repeatability: ±0.02mm", "Multi-axis adjustment", "Quick-release clamping", "Modular design architecture"],
+      "image": "/images/products/assembly-jigs.jpg"
+    },
+    {
+      "id": "prod3",
+      "title": "Checking Fixtures",
+      "category": "Quality Control",
+      "description": "Precision checking fixtures for dimensional verification of complex contoured surfaces and critical features. GD&T compliant inspection solutions.",
+      "specifications": ["Gauge R&R capable", "Datum reference frames", "Go/No-Go integration", "CMM correlation verified"],
+      "image": "/images/products/checking-fixtures.jpg"
+    },
+    {
+      "id": "prod4",
+      "title": "Machining Fixtures",
+      "category": "Material Removal",
+      "description": "Robust machining fixtures designed for CNC milling, turning, and drilling operations. Engineered for rigidity, chip evacuation, and minimal vibration.",
+      "specifications": ["Rigidity: <0.01mm deflection", "Coolant-through design", "Hydraulic/pneumatic clamping", "5-axis compatible"],
+      "image": "/images/products/machining-fixtures.jpg"
+    },
+    {
+      "id": "prod5",
+      "title": "SPM Tooling",
+      "category": "Special Purpose",
+      "description": "Special Purpose Machine tooling designed for high-volume production lines. Automated clamping, indexing, and multi-station operations.",
+      "specifications": ["Cycle time optimized", "PLC integration ready", "Pneumatic/hydraulic actuation", "Operator safety interlocks"],
+      "image": "/images/products/spm-tooling.jpg"
+    },
+    {
+      "id": "prod6",
+      "title": "Press Tools & Dies",
+      "category": "Forming & Stamping",
+      "description": "Progressive and compound dies for sheet metal forming, blanking, and deep drawing operations. Designed for high-volume production with minimal downtime.",
+      "specifications": ["Tool steel: D2/DC53", "Tonnage: 25T - 500T", "Strip layout optimization", "Auto-feed compatible"],
+      "image": "/images/products/press-tools.jpg"
+    }
+  ],
+  "services": [
+    {
+      "id": "s1",
+      "title": "Tool Design & Engineering",
+      "description": "Comprehensive tooling and fixture engineering for manufacturing operations. From concept sketches to detailed manufacturing drawings, we deliver production-ready tool designs.",
+      "icon": "Wrench",
+      "highlights": ["Welding Fixtures", "Assembly Fixtures", "Checking Fixtures", "Machining Fixtures", "SPM Tooling", "Press Tool Design"],
+      "details": "Our tool design process follows a structured methodology: requirement analysis, concept development, detailed design with 3D CAD, FEA validation, and complete manufacturing documentation. Every design is reviewed against manufacturing feasibility and operator ergonomics."
+    },
+    {
+      "id": "s2",
+      "title": "CAD & Technical Drafting",
+      "description": "Advanced 3D modeling and 2D technical drawing creation using industry-standard software platforms.",
+      "icon": "PenTool",
+      "highlights": ["3D Solid Modeling", "Surface Modeling", "2D Technical Drafting", "Design Modifications", "Legacy Drawing Conversion", "BOM Generation"],
+      "details": "We work with CATIA V5, SolidWorks, AutoCAD, and Creo to deliver precision models and drawings. Our drafting standards comply with IS, ASME, and ISO specifications. Every drawing includes complete GD&T annotations."
+    },
+    {
+      "id": "s3",
+      "title": "Design Optimization",
+      "description": "Improving efficiency, structural integrity, and cost-effectiveness of existing designs through engineering analysis.",
+      "icon": "TrendingUp",
+      "highlights": ["Weight Reduction", "Structural Reinforcement", "Cost Optimization", "Material Selection", "DFM Analysis", "Value Engineering"],
+      "details": "Using FEA simulation and decades of manufacturing experience, we identify opportunities to reduce weight, improve strength-to-weight ratios, and optimize material usage without compromising functional requirements."
+    },
+    {
+      "id": "s4",
+      "title": "Reverse Engineering",
+      "description": "Accurate digital reconstruction of physical parts and assemblies for documentation, modification, or reproduction.",
+      "icon": "RotateCcw",
+      "highlights": ["3D Scanning Integration", "Point Cloud Processing", "Parametric Model Creation", "Legacy Part Documentation"],
+      "details": "We convert physical parts into accurate 3D CAD models through measurement, scanning, and engineering analysis. Ideal for legacy parts without documentation, design modification of existing products, and quality verification."
+    }
+  ],
+  "projects": [
+    {
+      "id": "p1",
+      "title": "Wing Structure Assembly Jig Design",
+      "category": "Aerospace Tooling",
+      "client": "HAL - Hindustan Aeronautics Limited",
+      "description": "High-precision assembly jig designed to meet HAL aerospace standards for fighter aircraft wing assembly. Involved complex multi-axis positioning, automated clamping sequences, and comprehensive manufacturing documentation package.",
+      "challenge": "Achieve ±0.05mm positional accuracy across a 12-meter span while accommodating thermal expansion and structural deflection during assembly operations.",
+      "solution": "Designed a modular jig system with FEA-validated structural members, precision-ground locating surfaces, and temperature-compensating adjustment mechanisms.",
+      "image": "/images/projects/wing-jig.jpg",
+      "tags": ["Aerospace", "HAL", "Assembly Jig", "Fighter Aircraft"]
+    },
+    {
+      "id": "p2",
+      "title": "BIW Welding Fixture",
+      "category": "Automotive Tooling",
+      "client": "Tier-1 Automotive OEM",
+      "description": "Body-in-white welding fixture for high-volume automotive production line. Designed for robotic MIG welding with automated clamping and part loading/unloading.",
+      "challenge": "Design a fixture supporting 60-second cycle time with 47 weld points while maintaining ±0.3mm body panel alignment.",
+      "solution": "Pneumatic toggle clamp system with sequence-controlled actuation, integrated copper backup bars, and modular nest design for variant management.",
+      "image": "/images/projects/biw-fixture.jpg",
+      "tags": ["Automotive", "BIW", "Welding Fixture", "Robotic"]
+    },
+    {
+      "id": "p3",
+      "title": "Skin Contour Profile Control System",
+      "category": "Quality Control",
+      "client": "Aerospace Division",
+      "description": "Advanced checking fixture for aerospace skin contour verification. Enables precise measurement of complex double-curved surfaces against master CAD geometry.",
+      "challenge": "Verify compound-curved aluminum skin panels with profile tolerances of 0.5mm across surfaces up to 3 meters.",
+      "solution": "Custom contour template system with adjustable probe points, datum reference frame, and digital indicator integration for quantitative measurement.",
+      "image": "/images/projects/skin-contour.jpg",
+      "tags": ["Aerospace", "Quality Control", "Checking Fixture", "Contour"]
+    },
+    {
+      "id": "p4",
+      "title": "Engine Mount Machining Fixture",
+      "category": "Precision Machining",
+      "client": "Heavy Engineering OEM",
+      "description": "5-axis CNC machining fixture for engine mounting brackets. Designed for multi-operation machining in a single setup to minimize datum errors.",
+      "challenge": "Machine 6 critical features in a single setup with true position tolerance of 0.02mm on a cast aluminum part with irregular clamping surfaces.",
+      "solution": "Hydraulic workholding system with conformal nest design, through-tool coolant passages, and vacuum-assisted part seating verification.",
+      "image": "/images/projects/engine-mount.jpg",
+      "tags": ["Machining", "CNC", "Engine Mount", "Hydraulic"]
+    },
+    {
+      "id": "p5",
+      "title": "Fuselage Panel Assembly Tooling",
+      "category": "Aerospace Tooling",
+      "client": "HAL - Helicopter Division",
+      "description": "Complete tooling package for helicopter fuselage panel sub-assembly. Includes drilling jigs, assembly fixtures, and inspection gauges.",
+      "challenge": "Deliver an integrated tooling package supporting 23 unique panel configurations with shared datum architecture.",
+      "solution": "Modular tooling platform with interchangeable locating modules, drill bushings, and self-aligning master gauges for each panel variant.",
+      "image": "/images/projects/fuselage-panel.jpg",
+      "tags": ["Aerospace", "HAL", "Helicopter", "Fuselage"]
+    },
+    {
+      "id": "p6",
+      "title": "Progressive Die for Bracket Stamping",
+      "category": "Press Tooling",
+      "client": "Sheet Metal OEM",
+      "description": "12-station progressive die for high-volume bracket production. Designed for 250T mechanical press with automatic strip feeding.",
+      "challenge": "Produce a complex bracket with 4 bends and 8 piercing operations at 40 strokes per minute with ±0.1mm dimensional accuracy.",
+      "solution": "Optimized strip layout with 87% material utilization, guided strippers, carbide inserts at wear points, and spring-loaded pilots for precise registration.",
+      "image": "/images/projects/progressive-die.jpg",
+      "tags": ["Press Tool", "Progressive Die", "Stamping", "Sheet Metal"]
+    }
+  ],
+  "about": {
+    "story": {
+      "heading": "Engineering Excellence Since 2015",
+      "content": "DAVS Integrated Engineering Solutions was founded with a singular vision: to bridge the gap between design intent and manufacturing reality. Starting as a small team of passionate mechanical engineers, we have grown into a trusted partner for OEMs, Tier-1 suppliers, and aerospace organizations across India.",
+      "mission": "To deliver manufacturing-ready engineering solutions that reduce time-to-production, eliminate design ambiguity, and meet the highest quality standards in every project.",
+      "vision": "To become India's most trusted Mechanical CAD and Tool Design firm, setting benchmarks for precision, reliability, and engineering innovation."
+    },
+    "values": [
+      {
+        "title": "Precision",
+        "description": "Every dimension, tolerance, and specification is verified against requirements. No shortcuts.",
+        "icon": "Target"
+      },
+      {
+        "title": "Integrity",
+        "description": "Transparent communication, honest timelines, and design decisions backed by engineering rationale.",
+        "icon": "ShieldCheck"
+      },
+      {
+        "title": "Innovation",
+        "description": "Continuously adopting new CAD technologies, materials, and manufacturing methods to deliver better solutions.",
+        "icon": "Lightbulb"
+      },
+      {
+        "title": "Collaboration",
+        "description": "Working as an extension of your engineering team — aligned with your processes, standards, and goals.",
+        "icon": "Users"
+      }
+    ],
+    "infrastructure": [
+      "CATIA V5 R21 Workstations",
+      "SolidWorks Premium 2024",
+      "AutoCAD Mechanical 2024",
+      "ANSYS FEA Suite",
+      "High-Performance Computing Cluster",
+      "Secure Data Management System"
+    ],
+    "certifications": ["ISO 9001:2015", "HAL Approved Vendor", "NABL Calibration Standards", "AS9100D Aerospace"],
+    "timeline": [
+      { "year": "2015", "event": "Founded in Bangalore with 3 engineers" },
+      { "year": "2017", "event": "First HAL aerospace tooling project delivered" },
+      { "year": "2019", "event": "Expanded to 15-member engineering team" },
+      { "year": "2021", "event": "ISO 9001:2015 certification achieved" },
+      { "year": "2023", "event": "500+ projects milestone reached" },
+      { "year": "2025", "event": "Launched Design Optimization & Value Engineering division" }
+    ]
+  },
+  "testimonials": [
+    {
+      "id": "t1",
+      "name": "Rajesh Kumar",
+      "title": "Senior Procurement Manager",
+      "company": "Tier-1 Automotive OEM",
+      "quote": "DAVS delivered our BIW welding fixture ahead of schedule and within 2% of budget. Their attention to manufacturing feasibility saved us two design iterations on the shop floor.",
+      "rating": 5
+    },
+    {
+      "id": "t2",
+      "name": "Anita Sharma",
+      "title": "Chief Engineer",
+      "company": "Aerospace Division",
+      "quote": "The precision and documentation quality of DAVS's aerospace tooling designs is exceptional. They understand HAL specifications at a level that few vendors can match.",
+      "rating": 5
+    },
+    {
+      "id": "t3",
+      "name": "Vikram Patel",
+      "title": "Plant Manager",
+      "company": "Heavy Engineering Works",
+      "quote": "We've been working with DAVS for over 5 years. Their fixture designs consistently reduce our setup times by 30-40%. True engineering partners.",
+      "rating": 5
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What industries do you serve?",
+      "answer": "We serve aerospace, automotive, heavy engineering, general manufacturing, and defense sectors. Our tooling designs meet standards from HAL, ISRO, and major automotive OEMs."
+    },
+    {
+      "question": "What CAD software do you use?",
+      "answer": "Our primary platforms are CATIA V5, SolidWorks, and AutoCAD. We also work with Creo (Pro/E) and can deliver in STEP, IGES, or native formats as required."
+    },
+    {
+      "question": "What is your typical project turnaround time?",
+      "answer": "Simple fixtures: 2-3 weeks. Complex assembly jigs: 4-8 weeks. Aerospace tooling with full documentation: 8-12 weeks. Rush projects can be accommodated — please contact us for specific timelines."
+    },
+    {
+      "question": "Do you provide manufacturing support?",
+      "answer": "Yes. We provide complete manufacturing documentation including 2D drawings, BOMs, assembly instructions, and can coordinate with your manufacturing partners during fabrication."
+    },
+    {
+      "question": "Can you work with our existing designs?",
+      "answer": "Absolutely. We regularly perform design modifications, optimization of existing fixtures, and conversion of legacy drawings to 3D CAD models."
+    },
+    {
+      "question": "What quality standards do you follow?",
+      "answer": "Our processes comply with ISO 9001:2015. For aerospace projects, we follow AS9100D and HAL-specific design standards. All drawings include complete GD&T per ASME Y14.5."
+    }
+  ],
+  "trustBadges": [
+    { "name": "HAL Certified", "description": "Hindustan Aeronautics Limited Approved Vendor" },
+    { "name": "ISO 9001:2015", "description": "Quality Management System Certified" },
+    { "name": "AS9100D", "description": "Aerospace Quality Management Standard" },
+    { "name": "NABL", "description": "National Accreditation Board Calibration" }
+  ],
+  "navigation": [
+    { "label": "Home", "href": "/" },
+    { "label": "Products", "href": "/products" },
+    { "label": "Services", "href": "/services" },
+    { "label": "About", "href": "/about" },
+    { "label": "Projects", "href": "/projects" },
+    { "label": "Contact", "href": "/contact" }
+  ]
+}
