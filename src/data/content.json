@@ -19,7 +19,15 @@
     "seo": {
       "title": "DAVS Integrated Engineering Solutions | Precision Mechanical CAD & Tool Design",
       "description": "Specialized Mechanical CAD and Tool Designing firm focused on delivering high-accuracy engineering solutions for manufacturing industries.",
-      "keywords": ["Mechanical CAD", "Tool Designing", "HAL tool design", "Jigs and fixtures", "3D Modeling", "2D Technical Drafting", "Design Optimization"]
+      "keywords": [
+        "Mechanical CAD",
+        "Tool Designing",
+        "HAL tool design",
+        "Jigs and fixtures",
+        "3D Modeling",
+        "2D Technical Drafting",
+        "Design Optimization"
+      ]
     }
   },
   "home": {
@@ -52,10 +60,26 @@
       }
     ],
     "stats": [
-      { "value": 100, "suffix": "%", "label": "Commitment to Quality" },
-      { "value": 3, "suffix": "+", "label": "Core Industries Served" },
-      { "value": 10, "suffix": "+", "label": "Core Competencies" },
-      { "value": 100, "suffix": "%", "label": "Precision Driven" }
+      {
+        "value": 100,
+        "suffix": "%",
+        "label": "Commitment to Quality"
+      },
+      {
+        "value": 3,
+        "suffix": "+",
+        "label": "Core Industries Served"
+      },
+      {
+        "value": 10,
+        "suffix": "+",
+        "label": "Core Competencies"
+      },
+      {
+        "value": 100,
+        "suffix": "%",
+        "label": "Precision Driven"
+      }
     ],
     "featuredProject": {
       "id": "p1",
@@ -71,7 +95,12 @@
       "title": "Welding Fixtures",
       "category": "Tooling & Fixture Engineering",
       "description": "High-precision welding fixtures engineered for consistent weld quality and repeatability.",
-      "specifications": ["Precise placement of locators", "Balanced clamp positioning", "Distortion-free welding support", "Clear access zones"],
+      "specifications": [
+        "Precise placement of locators",
+        "Balanced clamp positioning",
+        "Distortion-free welding support",
+        "Clear access zones"
+      ],
       "image": "/images/products/welding-fixtures.jpg"
     },
     {
@@ -79,7 +108,12 @@
       "title": "Assembly Fixtures",
       "category": "Tooling & Fixture Engineering",
       "description": "Purpose-built assembly jigs that ensure component alignment and structural integrity during multi-part assembly operations.",
-      "specifications": ["Accurate alignment", "Modular design architecture", "Precision datum-based positioning", "Optimized structural framework"],
+      "specifications": [
+        "Accurate alignment",
+        "Modular design architecture",
+        "Precision datum-based positioning",
+        "Optimized structural framework"
+      ],
       "image": "/images/products/assembly-jigs.jpg"
     },
     {
@@ -87,7 +121,12 @@
       "title": "Checking Fixtures",
       "category": "Tooling & Fixture Engineering",
       "description": "Precision checking fixtures for dimensional verification of complex contoured surfaces and critical features.",
-      "specifications": ["Dimensional verification", "High accuracy", "Reliable measurement support", "Manufacturing ready"],
+      "specifications": [
+        "Dimensional verification",
+        "High accuracy",
+        "Reliable measurement support",
+        "Manufacturing ready"
+      ],
       "image": "/images/products/checking-fixtures.jpg"
     },
     {
@@ -95,7 +134,12 @@
       "title": "Machining Fixtures",
       "category": "Tooling & Fixture Engineering",
       "description": "Robust machining fixtures designed for various machining operations with strong production process knowledge.",
-      "specifications": ["Rigidity", "Efficient part holding", "Dimensional control", "Cost-effective"],
+      "specifications": [
+        "Rigidity",
+        "Efficient part holding",
+        "Dimensional control",
+        "Cost-effective"
+      ],
       "image": "/images/products/machining-fixtures.jpg"
     }
   ],
@@ -105,7 +149,12 @@
       "title": "Tooling & Fixture Engineering",
       "description": "Comprehensive tooling and fixture engineering for manufacturing operations.",
       "icon": "Wrench",
-      "highlights": ["Welding Fixtures", "Assembly Fixtures", "Checking Fixtures", "Machining Fixtures"],
+      "highlights": [
+        "Welding Fixtures",
+        "Assembly Fixtures",
+        "Checking Fixtures",
+        "Machining Fixtures"
+      ],
       "details": "Specialized tool design knowledge backed by practical shop-floor understanding. We develop robust, cost-effective, and manufacturing-ready engineering solutions."
     },
     {
@@ -113,7 +162,10 @@
       "title": "3D CAD Design",
       "description": "Advanced 3D modeling and design modifications.",
       "icon": "PenTool",
-      "highlights": ["3D Modeling", "Design Modifications"],
+      "highlights": [
+        "3D Modeling",
+        "Design Modifications"
+      ],
       "details": "We utilize modern CAD systems to create accurate 3D models and implement design modifications as per requirements."
     },
     {
@@ -121,7 +173,10 @@
       "title": "2D Technical Drafting",
       "description": "Detailed manufacturing drawings as per industry standards.",
       "icon": "Layers",
-      "highlights": ["Detailed manufacturing drawings", "Industry standard compliance"],
+      "highlights": [
+        "Detailed manufacturing drawings",
+        "Industry standard compliance"
+      ],
       "details": "We produce comprehensive 2D technical drafts ensuring all manufacturing details are accurately represented."
     },
     {
@@ -129,7 +184,11 @@
       "title": "Design Optimization",
       "description": "Engineering improvements focused on performance enhancement and cost efficiency.",
       "icon": "TrendingUp",
-      "highlights": ["Weight Reduction", "Structural Reinforcement", "Cost Optimization"],
+      "highlights": [
+        "Weight Reduction",
+        "Structural Reinforcement",
+        "Cost Optimization"
+      ],
       "details": "We identify opportunities to reduce weight, improve strength-to-weight ratios, and optimize material usage without compromising functional requirements."
     }
   ],
@@ -143,7 +202,11 @@
       "challenge": "Ensure accurate alignment of ribs, spars, and skin panels.",
       "solution": "Implemented rotatable contour plate system, reinforced high-rigidity clamping architecture, and modular rectangular interface plates.",
       "image": "/images/projects/wing-jig.jpg",
-      "tags": ["Aerospace", "Assembly Jig", "Wing Structure"]
+      "tags": [
+        "Aerospace",
+        "Assembly Jig",
+        "Wing Structure"
+      ]
     },
     {
       "id": "p2",
@@ -154,7 +217,11 @@
       "challenge": "Precise loading, unloading, and spot welding of cross-member assembly.",
       "solution": "Applied 3-2-1 locating principle, balanced clamp positioning for uniform pressure, and distortion-free welding support.",
       "image": "/images/projects/biw-fixture.jpg",
-      "tags": ["Automotive", "BIW", "Welding Fixture"]
+      "tags": [
+        "Automotive",
+        "BIW",
+        "Welding Fixture"
+      ]
     }
   ],
   "about": {
@@ -196,7 +263,11 @@
       "Aerospace Tooling",
       "Production Engineering Support"
     ],
-    "certifications": ["Aerospace", "Automotive", "Industrial Manufacturing"],
+    "certifications": [
+      "Aerospace",
+      "Automotive",
+      "Industrial Manufacturing"
+    ],
     "timeline": []
   },
   "testimonials": [],
@@ -215,16 +286,43 @@
     }
   ],
   "trustBadges": [
-    { "name": "Aerospace", "description": "Serving aerospace industry standards" },
-    { "name": "Automotive", "description": "Precision automotive tooling" },
-    { "name": "Industrial", "description": "Industrial manufacturing solutions" }
+    {
+      "name": "Aerospace",
+      "description": "Serving aerospace industry standards"
+    },
+    {
+      "name": "Automotive",
+      "description": "Precision automotive tooling"
+    },
+    {
+      "name": "Industrial",
+      "description": "Industrial manufacturing solutions"
+    }
   ],
   "navigation": [
-    { "label": "Home", "href": "/" },
-    { "label": "Products", "href": "/products" },
-    { "label": "Services", "href": "/services" },
-    { "label": "About", "href": "/about" },
-    { "label": "Projects", "href": "/projects" },
-    { "label": "Contact", "href": "/contact" }
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Products",
+      "href": "/products"
+    },
+    {
+      "label": "Services",
+      "href": "/services"
+    },
+    {
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "label": "Projects",
+      "href": "/projects"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    }
   ]
 }
